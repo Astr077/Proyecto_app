@@ -26,6 +26,10 @@ y este para clonar correctamente el repositorio del proyecto
 
 2) https://www.youtube.com/watch?v=EdZ0hQtrfEU&t=444s
 
+
+##Manual de usuario
+-  https://drive.google.com/file/d/1wr3hEDuKzBoHO8EwbkDrw0O2GEoHJOvu/view?usp=drive_link
+
 ## Créditos de las imágenes
 
   
