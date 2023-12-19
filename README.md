@@ -15,6 +15,15 @@ Pequeño punto de venta con Laravel 7(no lo pude hacer funcionar en laravel 8).
 -   Reporte de ventas
 -   Inicio de sesión y registro de usuarios
 -   App para Android
+## Como instalar?
+
+Para instalar recomendamos seguir estos videos:
+
+para instalar todo lo necesario en el framework de laravel
+1) https://www.youtube.com/watch?v=rltpKZosln4&t=109s
+
+y este para clonar correctamente el repositorio del proyecto
+2) https://www.youtube.com/watch?v=EdZ0hQtrfEU&t=444s
 
 ## Créditos de las imágenes
 
