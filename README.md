@@ -23,6 +23,7 @@ para instalar todo lo necesario en el framework de laravel
 1) https://www.youtube.com/watch?v=rltpKZosln4&t=109s
 
 y este para clonar correctamente el repositorio del proyecto
+
 2) https://www.youtube.com/watch?v=EdZ0hQtrfEU&t=444s
 
 ## Créditos de las imágenes
