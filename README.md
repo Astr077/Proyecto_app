@@ -11,7 +11,7 @@ Pequeño punto de venta con Laravel 7(no lo pude hacer funcionar en laravel 8).
 -   Opción para realizar venta, agregando productos
 -   Comprobación de existencia de inventario al vender
 -   Resta de existencia al vender
--   Impresión de tickets de venta en impresora térmica
+-   Impresión de tickets de venta en impresora térmica(solo funciona con la impresora conectada, si no esta conectada da error)
 -   Reporte de ventas
 -   Inicio de sesión y registro de usuarios
 -   App para Android
