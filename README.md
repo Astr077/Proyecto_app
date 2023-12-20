@@ -33,4 +33,4 @@ y este para clonar correctamente el repositorio del proyecto
 
   
 
-**Productos:** Icons from [www.flaticon.com](https://www.flaticon.com/  "Flaticon")
+**Icons from:** [www.flaticon.com](https://www.flaticon.com/  "Flaticon")
