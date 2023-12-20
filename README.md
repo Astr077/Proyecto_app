@@ -1,6 +1,5 @@
 ## POS con Laravel open source
 Pequeño punto de venta con Laravel 7(no lo pude hacer funcionar en laravel 8).
-[Bienvenida al sistema de ventas escrito en Laravel]
 ## Características
 
 -   Utiliza Laravel 7(a la fecha de escribir esto)
